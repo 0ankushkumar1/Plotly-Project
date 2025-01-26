@@ -1,0 +1,70 @@
+DATA VISUALIZATION CATEGORIES
+===========================
+
+1. DEMOGRAPHICS
+--------------
+• Population by District & Gender
+    - Bar: Male vs Female by district
+    - Pie: Gender distribution by state
+    - Sunburst: State/District/Gender breakdown
+
+• Literacy Analysis
+    - Histogram: District literacy rates
+    - Bar: Male vs Female literacy
+    - Scatter: Literacy vs Population
+
+• Age Distribution
+    - Bar: Age groups by district
+    - Area: State age trends
+
+2. SOCIAL INDICATORS
+-------------------
+• Caste Analysis
+    - Bar: SC/ST by district
+    - Pie: SC/ST proportions
+
+• Religious Demographics
+    - Treemap: Religion distribution
+    - Sunburst: State/District/Religion
+
+3. HOUSING & AMENITIES
+---------------------
+• Living Conditions
+    - Geo: Electricity/Internet access
+    - Pie: LPG/Kitchen/Bath facilities
+    - Bar: Urban vs Rural amenities
+
+• Housing Status
+    - Bar: Dwelling conditions
+    - Stack: Ownership types
+
+4. SOCIOECONOMIC
+---------------
+• Education
+    - Sunburst: Education levels
+    - Bar: Gender education gap
+
+• Employment
+    - Bar: Worker categories
+    - Scatter: Agriculture vs Other sectors
+
+5. GEOGRAPHIC INSIGHTS
+---------------------
+• Resources
+    - Bar: Water source types
+    - Choropleth: Population density
+    - Scatter: Amenity distribution
+
+6. CROSS-ANALYSIS
+----------------
+• Dashboards combining multiple metrics
+• Correlation studies between key variables
+
+
+State Wise Data:
+Scattter Plot of Gender ratio
+Scatter plot of number of houshoolds with mobile phones
+scatter plot for population district Wise
+bar plot for demography- religion,age, workforce,
+Rural vs Urban Population
+Basic amenities distribution
